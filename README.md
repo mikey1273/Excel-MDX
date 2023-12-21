@@ -63,7 +63,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 ➤  GET SESSION  ID FOR EXCEL-MD-V2
     
     
-<a href='https://replit.com/@HopeAmadi/Excel-md-Qr-code-scan' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2QRSCAN?s=app' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 ＊DEPLOYMENT METHODS
 
