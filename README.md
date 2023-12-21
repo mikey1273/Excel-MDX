@@ -67,7 +67,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
 ＊DEPLOYMENT METHODS
 
-❍ᗪᗴᑭᒪOY ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
 
 - If You don't have a account in Codespace. Create a account.
     <br>
