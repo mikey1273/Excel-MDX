@@ -82,7 +82,8 @@ Now Deploy
 
 - If You don't have a account in replit. Create a account.
    <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Replit'src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
+<a href='https://replit.com/signup' target="_blank"><img alt='Replit'src=
+'https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
 Now Deploy
     <br>
 <a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
