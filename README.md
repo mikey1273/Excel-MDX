@@ -1,96 +1,88 @@
-  <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+</h1> 
+<p align="center">To learn how to get session id scroll to end of page..
+ 
+ It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
+    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
   </a>
 </p>
-   
-<p align="center">
-
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <p align="center">
+  <a href="https://wa.me//+2347045035241" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
- 
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+
+><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DBEDF7&center=true&random=false&width=435&lines=EXCEL-MD-V2;MUTLI+FUNCTIONAL;WHATSAPP+BOT;MADE+BY;EXCEL+ Amadi." alt="Typing SVG" /></a>
+
+<p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+  <a
+ href="https://wa.me//+2347045035241"></a>
 </p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Whatsapp-363303?style=for-the-badge&logo=whatsapp&logoColor=c6c631"></img>
+<p align="center">
 
- 
----
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
- ***<p align="center"> Support us by subscribing our channel </p>***
- 
-   <p align="center">  
-  <a href="https://www.youtube.com/watch?v=k-DOQiLNuig">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
   </a>
+
+<a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 </p>
- 
- 
+
+
+
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
----
-1. ***Get [SESSION-ID](https://secktorub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
-
-
-***Free Mongodb URI,LOL***
+**If You Don't Have Any MongoDB Url Then, Use This Public one.!**
 ```
-mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
+mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i
 ```
-3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
-## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://secktorub-b34f1c3c60d3.herokuapp.com//heroku)***
-## Koyeb Deployment Method
-5. ***[Deploy on Koyeb](https://secktorub-b34f1c3c60d3.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
+- *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue.*
+##
 
-6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Secktor-Md)***
+  ＊SET UP FOR EXCEL-MD-V2
 
-If ***RUN*** Doesn't work, paste these commands in repl shell
+    
+➤FORK THE REPOSITORY (Repo) 
+    <br>
+<a href="https://github.com/Xcelsama/Excel-md-v2/fork"><img title="Excel-MD-V2" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
 
-```
-yarn
-npm i pm2 -g && pm2 start lib/client.js
-```
-Copy the JSON down and paste in repl then fill the vars
 
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
-  "PREFIX": "."
-   
-}
-```
+➤  GET SESSION  ID FOR EXCEL-MD-V2
+    
+    
+<a href='https://replit.com/@HopeAmadi/Excel-md-Qr-code-scan' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-7.  ***[Deploy on Railway](https://secktorub-b34f1c3c60d3.herokuapp.com/railway)***
+＊DEPLOYMENT METHODS
 
-8. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
-  
-9. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
+❍ᗪᗴᑭᒪOY ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
 
-10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
----
-11. More info about [Secktor](https://secktorub-b34f1c3c60d3.herokuapp.com/).
-12. Deploy tutorial [Youtube Video](https://secktorub-b34f1c3c60d3.herokuapp.com/youtube).
+- If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+Now Deploy
+    <br>
+<a href='https://silver-robot-pjrqjv9vp6rvf66pw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
-13. SUPPORT GROUP: <a href="https://chat.whatsapp.com/DG86OkvmerHKHJjkE5X2Wv"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ repo if you like Secktor.
-### Thanks To
+❍ᗪᗴᑭᒪOY ᗯITᕼ ᖇᗴᑭᒪIT
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
-
-## License
-
-The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+- If You don't have a account in replit. Create a account.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
+Now Deploy
+    <br>
+<a href='https://replit.com/@HopeAmadi/Excel-md-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
+❍
