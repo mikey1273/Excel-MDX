@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "2347045035241"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
@@ -76,11 +76,11 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "SECKTOR"
+     "value": "GOKU"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "Excel;Amadi",
      "required": false 
   },
   "heroku": {
