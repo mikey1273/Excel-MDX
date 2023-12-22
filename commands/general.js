@@ -113,15 +113,14 @@ cmd({
         category: "general",
         filename: __filename,
     },
-    async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
+    async(Void, citel) => 
+        let { data } = await axios.get('https://api.github.com/repos/Excelsama/Excel-MD-V2..-')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* citel-x.herokuapp.com/repo
-*Group:* citel-x.herokuapp.com/support
+*🍁 Repo:* https://github.com/Xcelsama/Excel-MD-V2..-
 *Deploy Your Own:*-
-citel-x.herokuapp.com`
+x.herokuapp.com`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
