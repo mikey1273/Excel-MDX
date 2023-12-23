@@ -6,14 +6,14 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
+global.email = 'Chigerunsitem@gmail.com'
 global.github = 'https://github.com/Xcelsama/Excel-MD-V2'
 global.location = 'Nigeria Ng'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '2347045035241'
 global.devs = '2347045035241';
 global.website = 'https://github.com/Xcelsama/Excel-MD-V2' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/oNckzkC.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? ' 𝗘𝘅𝗰𝗲𝗹 𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '𝗘𝘅𝗰𝗲𝗹' : process.env.OWNER_NAME,
