@@ -128,7 +128,7 @@ x.herokuapp.com`
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "Excel-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
