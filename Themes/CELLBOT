@@ -1,0 +1,58 @@
+
+{
+    "_JSON_": true,
+    "AUTHOR": "Excel",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "Your bot is already on latest version more updates coming",
+            "NEW_UPDATE": "There is a new update available for the bot !\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "Fresh Updates Installed!"
+        },
+        "global": {
+            "botName": " 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙴𝚡𝚌𝚎𝚕",
+
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "greet2" : "𝙷𝚎𝚕𝚕𝚘!!", 
+            "pic1": "https://ibb.co/yFjKwdp",
+            "pic2": "https://ibb.co/4JrNsY6",
+            "pic3": "https://ibb.co/fxY1S2v",
+            "pic4": "https://ibb.co/bm73Kxx",
+            "pic5": "https://ibb.co/sqSJcHP",
+            "pic6": "https://ibb.co/QvKcf0h",
+            "pic7": "https://ibb.co/TPNDNLj",
+             "greet" : "Brother",
+           "dotbody" : "Yup.I am here.",
+            "emijii" : "📥",
+            "promote": "ɴᴏᴡ ᴛᴀsᴛᴇ ᴘᴏᴡᴇʀ💪⚡",
+            "pmallow": "Hii,This is ᴇxᴄᴇʟ\n*ᴀ sᴘʀᴇᴀᴅsʜᴇᴇᴛ .*\nᴍɪᴄʀᴏsᴏғᴛ ɪs ʙᴜsʏ ʀɴ.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇxᴄᴇʟ_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇxᴄᴇʟ*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇxᴄᴇʟ", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙴𝚡𝚌𝚎𝚕",
+            "demote": "𝙽𝚒𝚌𝚎 𝚑𝚊𝚟𝚒𝚗𝚐 𝚢𝚘𝚞 𝚊𝚜 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗",
+            "antlink": "Link Detected.\n*Good Bye 𝙰𝚗𝚘𝚝𝚑𝚎𝚛 𝚒𝚍𝚒𝚘𝚝 𝚔𝚒𝚌𝚔𝚎𝚍*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙴𝚡𝚌𝚎𝚕*",
+            "mention": " Please mention any user Bro🥲",
+            "title": "𝙴𝚡𝚌𝚎𝚕",
+            "footer": " 𝙴𝚡𝚌𝚎𝚕",
+            "by": "Made by: CitelVoid",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Success ✓",
+            "dot": "HEY 🥳, Why don't you try .help",
+            "couple_male": "I'm sorry i didn't understand for so long",
+            "couple_female": "Put everything in your soulders",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ғᴏʀ ᴀᴅᴍɪɴ ᴅᴏɴ'ᴛ ᴛʀʏ ᴀɢᴀɪɴ!",
+            "botAdmin": " ᴍᴀᴋᴇ 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ғᴏʀ ᴏᴡɴᴇʀ⚠️",
+            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+        },
+        "error": {
+            "text": "Task Failed"
+        }
+    }
+  }
